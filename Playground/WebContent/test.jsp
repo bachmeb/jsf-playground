@@ -20,6 +20,7 @@
     <h:outputText value="#{myBean.output}" />
     <h:messages />
 </h:form>
+         
             
             
             
